@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Deploying Azure VM and Connecting to Them](https://github.com/Ivanlpz740/Azure_VM-s)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Adding your VM to a Active Directory Domain](https://github.com/joshmadakorcc/AD_domain)
 
 <h2>🤳Connect with me:</h2>
 
