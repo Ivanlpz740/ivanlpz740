@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Ivanlpz740/OS_ticket)
-  - [osTicket: Configuring some common roles on osTicket](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Configuring some common roles on osTicket](https://github.com/Ivanlpz740/Common_roles)
   
 - <b>Microsoft Azure</b>
   - [Deploying Azure VM and Connecting to Them](https://github.com/Ivanlpz740/Azure_VM-s)
