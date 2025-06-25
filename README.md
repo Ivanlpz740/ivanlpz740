@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Deploying Azure VM and Connecting to Them](https://github.com/Ivanlpz740/Azure_VM-s)
-  - [Adding your VM to a Active Directory Domain](https://github.com/joshmadakorcc/AD_domain)
+  - [Adding your VM to a Active Directory Domain](https://github.com/Ivanlpz740/AD_domain)
 
 <h2>🤳Connect with me:</h2>
 
