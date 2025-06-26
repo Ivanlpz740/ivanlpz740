@@ -11,8 +11,8 @@
   - [Adding your VM to a Active Directory Domain](https://github.com/Ivanlpz740/AD_domain)
 
 - <b>Scripting on Microsoft</b>
-  - [IP release and renew script (APIPA)](https://github.com/Ivanlpz740/Azure_VM-s)
-  - [Adding your VM to a Active Directory Domain](https://github.com/Ivanlpz740/AD_domain)
+  - [IP release and renew script (APIPA)](https://github.com/Ivanlpz740/Scripting1)
+
 
 
 <h2>🤳Connect with me:</h2>
