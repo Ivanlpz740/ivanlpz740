@@ -8,10 +8,11 @@
   
 - <b>Microsoft Azure</b>
   - [Deploying Azure VM and Connecting to Them](https://github.com/Ivanlpz740/Azure_VM-s)
-  - [Adding your VM to a Active Directory Domain](https://github.com/Ivanlpz740/AD_domain)
+  - [Adding your VM to an Active Directory Domain](https://github.com/Ivanlpz740/AD_domain)
 
 - <b>Scripting on Microsoft</b>
-  - [IP release and renew script (APIPA)](https://github.com/Ivanlpz740/Scripting1)
+  - [Cutting over FIOS router to Fortigate 60E](https://github.com/Ivanlpz740/Cutting-over-FIOS-router-to-Fortigate-60E)
+  - [Setting up Virtual IP](    )
 
 
 
