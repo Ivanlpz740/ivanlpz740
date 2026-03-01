@@ -12,7 +12,7 @@
 
 - <b>Scripting on Microsoft</b>
   - [Cutting over FIOS router to Fortigate 60E](https://github.com/Ivanlpz740/Cutting-over-FIOS-router-to-Fortigate-60E)
-  - [Setting up Virtual IP](    )
+
 
 
 
