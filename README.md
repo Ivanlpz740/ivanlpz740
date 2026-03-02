@@ -10,7 +10,7 @@
   - [Deploying Azure VM and Connecting to Them](https://github.com/Ivanlpz740/Azure_VM-s)
   - [Adding your VM to an Active Directory Domain](https://github.com/Ivanlpz740/AD_domain)
 
-- <b>Scripting on Microsoft</b>
+- <b>Networking</b>
   - [Cutting over FIOS router to Fortigate 60E](https://github.com/Ivanlpz740/Cutting-over-FIOS-router-to-Fortigate-60E)
   - [Setting up a Virtual IP and Port Forwarding](https://github.com/Ivanlpz740/Setting-up-Virtual-IP-Port-forwarding-on-Fortigate)
 
